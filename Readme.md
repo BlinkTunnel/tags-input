@@ -72,3 +72,6 @@ taginput.importTags(['123', '234'])
   Called when a tag is removed`
 
 
+## Thanks to
+[tomerdmnt](https://github.com/tomerdmnt/tag-input)
+
