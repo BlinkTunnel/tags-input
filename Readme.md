@@ -16,7 +16,7 @@
 
 ## Install
 ```
-npm install https://github.com/gucheen/tag-input.git
+npm install https://github.com/BlinkTunnel/tags-input.git
 ```
 
 ## Example
